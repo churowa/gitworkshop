@@ -6,3 +6,9 @@ git add [some path]
 
 git commit
 git commit -m "Some commit message"
+
+git log
+git log --oneline
+git log --graph
+git log --decorate
+git log --oneline --graph --decorate
