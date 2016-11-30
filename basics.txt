@@ -3,3 +3,6 @@ git init
 git status
 
 git add [some path]
+
+git commit
+git commit -m "Some commit message"
