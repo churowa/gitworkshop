@@ -1,2 +1,8 @@
 git branch
 git branch -a
+
+git branch new_branch_name
+git branch another_branch_name
+git branch you_get_a_branch
+git branch and_you_get_a_branch
+git branch branches_for_everyone
