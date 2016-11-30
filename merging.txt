@@ -1,0 +1,2 @@
+[When you're on on the master branch]
+git merge new_branch_name
